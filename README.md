@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./aseel_github_banner_v2.svg" width="100%">
+</p>
 <!-- SOCIAL LINKS -->
 <p>
   <a href="https://x.com/aseelm_official?s=21">
