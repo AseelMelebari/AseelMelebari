@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="github-banner.png" alt="Aseel Melebari - Artificial Intelligence" width="100%">
+</p>
+
+
 # Hi, I'm Aseel Melebari 👋
 
 ### Artificial Intelligence Student | AI Governance | Responsible AI | AI Evaluation | Machine Learning | Computer Vision | NLP
